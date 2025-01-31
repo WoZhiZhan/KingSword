@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "abab_3",
+    "customModelName": "Normal",
+    "name": "hjh Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "HjhSwordDangShiTiBeiGongJuJiZhongShi"
+    },
+    "onItemInUseTick": {
+      "name": "HjhSwordDangGongJuChuXianZaiShouZhongShi"
+    }
+  }
+}

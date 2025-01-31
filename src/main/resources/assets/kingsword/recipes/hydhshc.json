@@ -1,0 +1,30 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "kingsword:hyhyk"
+    },
+    "3": {
+      "item": "kingsword:hyhyk"
+    },
+    "4": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "5": {
+      "item": "kingsword:hyhyk"
+    },
+    "7": {
+      "item": "kingsword:hyhyk"
+    }
+  },
+  "result": {
+    "item": "kingsword:xwddf",
+    "count": 1
+  }
+}

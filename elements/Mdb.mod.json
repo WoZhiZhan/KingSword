@@ -1,0 +1,174 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "mod作者:",
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "name": "mod作者:",
+          "x": 136,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "我之战",
+          "color": {
+            "value": -16711681,
+            "falpha": 0.0
+          },
+          "name": "我之战",
+          "x": 178,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "mod协助人员",
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "name": "mod协助人员",
+          "x": 135,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "minghao",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "minghao",
+          "x": 199,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "wwwagannn",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "wwwagannn",
+          "x": 199,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "墨の幻想录",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "墨の幻想录",
+          "x": 198,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "提供彩雷",
+          "color": {
+            "value": -10027009,
+            "falpha": 0.0
+          },
+          "name": "提供彩雷",
+          "x": 263,
+          "y": 106
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "地址",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "地址",
+          "x": 205,
+          "y": 2
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "https://space.bilibili.com/693257920?spm_id_from=333.1007.0.0",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "https://space.bilibili.com/693257920?spm_id_from=333.1007.0.0",
+          "x": 77,
+          "y": 17
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -256,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 267,
+          "y": 57
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "隐藏物品",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "隐藏物品",
+          "x": 266,
+          "y": 39
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "生成",
+          "onClick": {
+            "name": "Cdlc"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "生成",
+          "x": 216,
+          "y": 46
+        }
+      }
+    ]
+  }
+}

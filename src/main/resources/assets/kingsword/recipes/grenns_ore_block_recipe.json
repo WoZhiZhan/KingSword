@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:grenns"
+    },
+    "1": {
+      "item": "kingsword:grenns"
+    },
+    "2": {
+      "item": "kingsword:grenns"
+    },
+    "3": {
+      "item": "kingsword:grenns"
+    },
+    "4": {
+      "item": "kingsword:grenns"
+    },
+    "5": {
+      "item": "kingsword:grenns"
+    },
+    "6": {
+      "item": "kingsword:grenns"
+    },
+    "7": {
+      "item": "kingsword:grenns"
+    },
+    "8": {
+      "item": "kingsword:grenns"
+    }
+  },
+  "result": {
+    "item": "kingsword:grenns_block",
+    "count": 1
+  }
+}

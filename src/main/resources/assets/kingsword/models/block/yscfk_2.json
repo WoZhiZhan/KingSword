@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kingsword:blocks/debug",
+    "up": "kingsword:blocks/debug",
+    "north": "kingsword:blocks/debug",
+    "east": "kingsword:blocks/debug",
+    "south": "kingsword:blocks/debug",
+    "west": "kingsword:blocks/debug",
+    "particle": "kingsword:blocks/debug"
+  }
+}

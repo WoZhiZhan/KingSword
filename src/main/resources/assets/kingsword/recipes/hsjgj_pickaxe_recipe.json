@@ -1,0 +1,30 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:hsj"
+    },
+    "1": {
+      "item": "kingsword:hsj"
+    },
+    "2": {
+      "item": "kingsword:hsj"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kingsword:hsjgj_pickaxe",
+    "count": 1
+  }
+}

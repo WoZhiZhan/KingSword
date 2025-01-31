@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "kingsword",
+    "name": "king§Œsword",
+    "description": "kingsword",
+    "version": "1.7.1",
+    "credits": "Created using mod maker MCr666",
+    "logoFile": "assets/kingsword/textures/king_de_sword.png",
+    "mcversion": "1.12.2",
+    "url": "https://space.bilibili.com/693257920?spm_id_from=333.1007.0.0",
+    "updateUrl": "",
+    "authorList": [
+      "Œ“÷Æ’Ωwzz"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

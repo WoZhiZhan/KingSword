@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "kingsword:blocks/ysmt_planks",
+    "top": "kingsword:blocks/ysmt_planks",
+    "side": "kingsword:blocks/ysmt_planks"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "sw",
+    "customModelName": "Normal",
+    "name": "Kingの防御",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "这个是king的防御",
+      "kingのsword 2 没有防御",
+      "仅仅是没蓄力的状态",
+      "输入指令:/kingdegongji 开启自动攻击模式",
+      "输入指令:/gbkdgj 关闭自动攻击",
+      "按K开启超级防御",
+      "开启后所有没kingのsword的实体都会被tp到虚空",
+      "按J关闭",
+      "温馨提示:自动攻击在很多生物的情况下可能会崩"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onItemInInventoryTick": {
+      "name": "KingdefyDangWuPinZaiBeiBaoZhongMeiKeFaSheng"
+    }
+  }
+}

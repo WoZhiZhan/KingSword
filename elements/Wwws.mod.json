@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [],
+    "baseTexture": "azz.png",
+    "displayCondition": {
+      "name": "WwwsXianShiYouXiNeiDieJiaCeng"
+    }
+  }
+}

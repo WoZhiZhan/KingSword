@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kingsword:blocks/yellows_ore_block",
+    "particle": "kingsword:blocks/yellows_ore_block"
+  }
+}

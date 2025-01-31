@@ -1,0 +1,23 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "1": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "2": {
+      "item": "kingsword:ysmt_planks"
+    }
+  },
+  "result": {
+    "item": "kingsword:ysmt_slab",
+    "data": 0,
+    "count": 6
+  }
+}

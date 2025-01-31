@@ -1,0 +1,17 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "kingsword:ysmt_log",
+    "count": 1
+  }
+}

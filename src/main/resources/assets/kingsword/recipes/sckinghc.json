@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:scyapo"
+    },
+    "1": {
+      "item": "kingsword:wooden_sword"
+    },
+    "2": {
+      "item": "kingsword:jihuofangkuai"
+    },
+    "3": {
+      "item": "kingsword:healthc"
+    },
+    "4": {
+      "item": "kingsword:sldzs"
+    },
+    "5": {
+      "item": "kingsword:healthc"
+    },
+    "6": {
+      "item": "kingsword:kingjieshao"
+    },
+    "7": {
+      "item": "kingsword:wooden_sword"
+    },
+    "8": {
+      "item": "kingsword:scyapo"
+    }
+  },
+  "result": {
+    "item": "kingsword:scking",
+    "count": 1
+  }
+}

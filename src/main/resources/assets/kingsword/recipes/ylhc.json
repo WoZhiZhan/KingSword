@@ -1,0 +1,26 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "kingsword:mizhicook",
+    "count": 1
+  }
+}

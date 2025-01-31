@@ -1,0 +1,33 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "3": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "4": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "6": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "7": {
+      "item": "kingsword:ysmt_planks"
+    },
+    "8": {
+      "item": "kingsword:ysmt_planks"
+    }
+  },
+  "result": {
+    "item": "kingsword:ysmt_stairs",
+    "count": 4
+  }
+}

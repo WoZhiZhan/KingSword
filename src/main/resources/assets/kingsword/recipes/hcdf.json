@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "1": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "2": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "3": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "4": {
+      "item": "kingsword:sldzs"
+    },
+    "5": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "6": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "7": {
+      "item": "kingsword:go_dhyfk"
+    },
+    "8": {
+      "item": "kingsword:go_dhyfk"
+    }
+  },
+  "result": {
+    "item": "kingsword:jxhyfk",
+    "count": 1
+  }
+}

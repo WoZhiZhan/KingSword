@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "1": {
+      "item": "kingsword:kjcsz"
+    },
+    "2": {
+      "item": "minecraft:emerald_block"
+    },
+    "3": {
+      "item": "kingsword:kjcsz"
+    },
+    "4": {
+      "item": "kingsword:xwddf"
+    },
+    "5": {
+      "item": "kingsword:kjcsz"
+    },
+    "6": {
+      "item": "minecraft:emerald_block"
+    },
+    "7": {
+      "item": "kingsword:kjcsz"
+    },
+    "8": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "kingsword:lsdj",
+    "count": 1
+  }
+}

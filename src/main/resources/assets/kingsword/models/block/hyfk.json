@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kingsword:blocks/hyfk",
+    "up": "kingsword:blocks/hyfk",
+    "north": "kingsword:blocks/hyfk",
+    "east": "kingsword:blocks/hyfk",
+    "south": "kingsword:blocks/hyfk",
+    "west": "kingsword:blocks/hyfk",
+    "particle": "kingsword:blocks/hyfk"
+  }
+}

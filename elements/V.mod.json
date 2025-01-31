@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "V",
+    "keyBindingName": "V",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "VAnXiaAnJianShi"
+    }
+  }
+}

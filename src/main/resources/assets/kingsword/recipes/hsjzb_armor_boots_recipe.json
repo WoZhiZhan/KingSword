@@ -1,0 +1,26 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:hsj"
+    },
+    "2": {
+      "item": "kingsword:hsj"
+    },
+    "3": {
+      "item": "kingsword:hsj"
+    },
+    "5": {
+      "item": "kingsword:hsj"
+    }
+  },
+  "result": {
+    "item": "kingsword:hsjzb_armorboots",
+    "count": 1
+  }
+}

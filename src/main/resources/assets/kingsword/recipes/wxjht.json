@@ -1,0 +1,36 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:five_item"
+    },
+    "1": {
+      "item": "kingsword:five_item"
+    },
+    "2": {
+      "item": "kingsword:five_item"
+    },
+    "3": {
+      "item": "kingsword:five_item"
+    },
+    "5": {
+      "item": "kingsword:five_item"
+    },
+    "6": {
+      "item": "kingsword:five_item"
+    },
+    "8": {
+      "item": "kingsword:five_item"
+    }
+  },
+  "result": {
+    "item": "kingsword:fivelegs",
+    "count": 1
+  }
+}

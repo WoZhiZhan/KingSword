@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "command",
+  "definition": {
+    "commandName": "chaowo",
+    "permissionLevel": "3",
+    "onCommandExecuted": {
+      "name": "ChaowoDangMingLingBeiZhiXingShi"
+    }
+  }
+}

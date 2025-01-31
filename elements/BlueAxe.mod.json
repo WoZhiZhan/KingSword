@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "blue_axe",
+    "customModelName": "Normal",
+    "name": "Blue Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Fivearmor"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 11.0,
+    "attackSpeed": 1.0,
+    "enchantability": 36,
+    "damageVsEntity": 23.0,
+    "usageCount": 953,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Blue"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

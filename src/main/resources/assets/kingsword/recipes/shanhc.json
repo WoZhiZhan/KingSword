@@ -1,0 +1,24 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:zt"
+    },
+    "1": {
+      "item": "kingsword:zt"
+    },
+    "2": {
+      "item": "kingsword:hymg"
+    }
+  },
+  "result": {
+    "item": "kingsword:shapeds",
+    "count": 1
+  }
+}

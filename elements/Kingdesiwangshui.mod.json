@@ -1,0 +1,24 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Kingdesiwangshui",
+    "textureStill": "hyhyk",
+    "textureFlowing": "hyhyk",
+    "luminosity": 5,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "frequencyOnChunks": 0,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "KingdesiwangshuiDangShengWuWanJiaPengZhuangFangKuaiShi"
+    }
+  }
+}

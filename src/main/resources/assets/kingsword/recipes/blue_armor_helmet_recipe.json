@@ -1,0 +1,29 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:blue"
+    },
+    "1": {
+      "item": "kingsword:blue"
+    },
+    "2": {
+      "item": "kingsword:blue"
+    },
+    "3": {
+      "item": "kingsword:blue"
+    },
+    "5": {
+      "item": "kingsword:blue"
+    }
+  },
+  "result": {
+    "item": "kingsword:blue_armorhelmet",
+    "count": 1
+  }
+}

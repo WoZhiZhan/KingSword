@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Kingsword:√ªÀ¿ƒÿ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Kingsword:√ªÀ¿ƒÿ",
+          "x": 339,
+          "y": 221
+        }
+      }
+    ],
+    "baseTexture": "azz.png",
+    "displayCondition": {
+      "name": "XsfyXianShiYouXiNeiDieJiaCeng"
+    }
+  }
+}

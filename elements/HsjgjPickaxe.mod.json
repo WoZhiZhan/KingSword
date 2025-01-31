@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hsjgj_pickaxe",
+    "customModelName": "Normal",
+    "name": "ºìË®¾§¸å",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 6,
+    "efficiency": 18.0,
+    "attackSpeed": 1.6,
+    "enchantability": 42,
+    "damageVsEntity": 5.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hsj"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

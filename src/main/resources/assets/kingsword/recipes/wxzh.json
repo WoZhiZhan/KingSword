@@ -1,0 +1,36 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "kingsword:swordpei"
+    },
+    "3": {
+      "item": "kingsword:five_sword_feng"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "kingsword:five_sword_feng"
+    },
+    "7": {
+      "item": "kingsword:swordpei"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "kingsword:five_he",
+    "count": 1
+  }
+}

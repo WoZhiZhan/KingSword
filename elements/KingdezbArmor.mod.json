@@ -1,0 +1,70 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "kingdezb_head",
+    "enableBody": true,
+    "textureBody": "kingdezb_body",
+    "enableLeggings": true,
+    "textureLeggings": "kingdezb_leggings",
+    "enableBoots": true,
+    "textureBoots": "kingdezb_boots",
+    "onHelmetTick": {
+      "name": "KingdezbArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onBodyTick": {
+      "name": "KingdezbArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onLeggingsTick": {
+      "name": "KingdezbArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onBootsTick": {
+      "name": "KingdezbArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "armorTextureFile": "q__",
+    "helmetName": "king¤ÎÍ·¿ø",
+    "bodyName": "king¤ÎÐØ¼×",
+    "leggingsName": "king¤Î»¤ÍÈ",
+    "bootsName": "king¤ÎÑ¥×Ó",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1024,
+    "damageValueHelmet": 1024,
+    "damageValueBody": 1024,
+    "damageValueLeggings": 1024,
+    "damageValueBoots": 1024,
+    "enchantability": 100,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.REDSTONE_BLOCK"
+      }
+    ]
+  }
+}

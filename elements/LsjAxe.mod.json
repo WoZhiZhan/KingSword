@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lsj_axe",
+    "customModelName": "Normal",
+    "name": "À¶Ë®¾§¸«",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 16.0,
+    "attackSpeed": 0.9,
+    "enchantability": 28,
+    "damageVsEntity": 15.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Lsj"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "kingsword:blocks/ysmt_planks",
+    "particle": "kingsword:blocks/ysmt_planks"
+  }
+}

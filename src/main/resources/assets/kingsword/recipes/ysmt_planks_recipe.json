@@ -1,0 +1,14 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "forgeysmt_log"
+    }
+  ],
+  "result": {
+    "item": "kingsword:ysmt_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "swgui.png",
+          "use1Xscale": true,
+          "name": "swgui.png",
+          "x": -154,
+          "y": -46
+        }
+      }
+    ]
+  }
+}

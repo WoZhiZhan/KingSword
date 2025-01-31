@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hsjgj_hoe",
+    "customModelName": "Normal",
+    "name": "ºìË®¾§³ú",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 6,
+    "efficiency": 18.0,
+    "attackSpeed": 1.7,
+    "enchantability": 42,
+    "damageVsEntity": 6.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hsj"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

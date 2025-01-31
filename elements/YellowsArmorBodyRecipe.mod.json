@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      },
+      {
+        "value": "CUSTOM:Yellows"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:YellowsArmor.body"
+    },
+    "name": "yellows_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

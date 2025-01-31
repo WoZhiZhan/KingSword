@@ -1,0 +1,39 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:black"
+    },
+    "2": {
+      "item": "kingsword:black"
+    },
+    "3": {
+      "item": "kingsword:black"
+    },
+    "4": {
+      "item": "kingsword:black"
+    },
+    "5": {
+      "item": "kingsword:black"
+    },
+    "6": {
+      "item": "kingsword:black"
+    },
+    "7": {
+      "item": "kingsword:black"
+    },
+    "8": {
+      "item": "kingsword:black"
+    }
+  },
+  "result": {
+    "item": "kingsword:black_armorbody",
+    "count": 1
+  }
+}

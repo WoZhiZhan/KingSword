@@ -1,0 +1,30 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:grenns"
+    },
+    "1": {
+      "item": "kingsword:grenns"
+    },
+    "2": {
+      "item": "kingsword:grenns"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kingsword:grenns_axe",
+    "count": 1
+  }
+}

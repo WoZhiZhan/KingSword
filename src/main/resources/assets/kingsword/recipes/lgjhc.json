@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:sldzs"
+    },
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "kingsword:sldzs"
+    },
+    "3": {
+      "item": "kingsword:lsj"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:diamond_sword"
+    },
+    "6": {
+      "item": "kingsword:sldzs"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "kingsword:sldzs"
+    }
+  },
+  "result": {
+    "item": "kingsword:lgj",
+    "count": 1
+  }
+}

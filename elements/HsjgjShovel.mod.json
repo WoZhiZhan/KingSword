@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "hsjgj_shovel",
+    "customModelName": "Normal",
+    "name": "ºìË®¾§²ù",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 6,
+    "efficiency": 19.0,
+    "attackSpeed": 1.7,
+    "enchantability": 42,
+    "damageVsEntity": 3.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hsj"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

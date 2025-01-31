@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "J",
+    "keyBindingName": "¹Ø±Õ³¬¼¶·ÀÓù",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Gnfjfy"
+    }
+  }
+}

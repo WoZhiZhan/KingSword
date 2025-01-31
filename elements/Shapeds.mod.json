@@ -1,0 +1,50 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "thkla_23",
+    "customModelName": "Tool",
+    "name": "Shaped Sword",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 128000.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "az"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "ShapedsDangYouJianDianJiFangKuaiShi"
+    },
+    "onRightClickedOnBlock": {
+      "name": "ShapedsDangYouJianDkianJiFangKuaiShi"
+    },
+    "onEntityHitWith": {
+      "name": "ShapedsDangYouJianDianJiKongQiShi"
+    },
+    "onItemInInventoryTick": {
+      "name": "ShapedsDangWuPinZaiBeiBaoZhongMeiKeFaSheng"
+    },
+    "onEntitySwing": {
+      "name": "ShapedsDangShiTiHuiDongWuPinShi"
+    }
+  }
+}

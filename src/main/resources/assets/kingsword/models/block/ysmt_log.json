@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kingsword:blocks/ysmt_log_top",
+    "up": "kingsword:blocks/ysmt_log_top",
+    "north": "kingsword:blocks/ysmt_log_side",
+    "east": "kingsword:blocks/ysmt_log_side",
+    "south": "kingsword:blocks/ysmt_log_side",
+    "west": "kingsword:blocks/ysmt_log_side",
+    "particle": "kingsword:blocks/ysmt_log_top"
+  }
+}

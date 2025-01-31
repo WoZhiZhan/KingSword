@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kingsword:items/wei_biao_ti_-3"
+  }
+}

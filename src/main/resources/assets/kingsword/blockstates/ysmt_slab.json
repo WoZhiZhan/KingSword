@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "kingsword:ysmt_slab"
+    },
+    "half=top,variant=default": {
+      "model": "kingsword:ysmt_slab_top"
+    }
+  }
+}

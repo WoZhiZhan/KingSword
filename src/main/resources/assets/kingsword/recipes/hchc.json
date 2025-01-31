@@ -1,0 +1,22 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_block"
+    },
+    "1": {
+      "item": "kingsword:hpzj"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "kingsword:xkj",
+    "count": 1
+  }
+}

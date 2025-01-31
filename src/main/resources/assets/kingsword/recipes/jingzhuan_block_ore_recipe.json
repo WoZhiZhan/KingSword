@@ -1,0 +1,13 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:jingzhuan_block"
+    }
+  ],
+  "result": {
+    "item": "kingsword:jingzhuan",
+    "count": 9
+  }
+}

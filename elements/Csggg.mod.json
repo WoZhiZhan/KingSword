@@ -1,0 +1,43 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "主世界",
+          "onClick": {
+            "name": "Csddddd"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "主世界",
+          "x": 142,
+          "y": 69
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "虚无之地",
+          "onClick": {
+            "name": "Anheizhidi"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "虚无之地",
+          "x": 235,
+          "y": 69
+        }
+      }
+    ]
+  }
+}

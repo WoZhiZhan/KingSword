@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "kingsword:xwddf_portal_ew"
+    },
+    "axis=x": {
+      "model": "kingsword:xwddf_portal_ns"
+    },
+    "inventory": {
+      "model": "kingsword:xwddf_portal_ns"
+    }
+  }
+}

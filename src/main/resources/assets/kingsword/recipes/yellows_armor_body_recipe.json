@@ -1,0 +1,39 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:yellows"
+    },
+    "2": {
+      "item": "kingsword:yellows"
+    },
+    "3": {
+      "item": "kingsword:yellows"
+    },
+    "4": {
+      "item": "kingsword:yellows"
+    },
+    "5": {
+      "item": "kingsword:yellows"
+    },
+    "6": {
+      "item": "kingsword:yellows"
+    },
+    "7": {
+      "item": "kingsword:yellows"
+    },
+    "8": {
+      "item": "kingsword:yellows"
+    }
+  },
+  "result": {
+    "item": "kingsword:yellows_armorbody",
+    "count": 1
+  }
+}

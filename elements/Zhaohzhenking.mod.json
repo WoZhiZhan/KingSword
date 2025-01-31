@@ -1,0 +1,41 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "zhaohzking",
+    "customModelName": "Normal",
+    "name": "召唤§e真king",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "右键在GOD混元方块上召唤真King",
+      "小心！",
+      "他很强",
+      "所有没kingのsword生物都会无限死亡！"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedOnBlock": {
+      "name": "Zkdlc"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "mjwp",
+    "customModelName": "Normal",
+    "name": "knigのsword获得器",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "右键获得kingのsword 低配",
+      "用低配kingのsword右键觉醒方块即可获得真的",
+      "小心",
+      "会永久绑定在背包中"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "MjwpDangYouJianDianJiKongQiShi"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+package net.ababab.kingsword.procedure;
+
+import net.minecraft.world.World;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.entity.EntityLivingBase;
+import net.minecraft.entity.Entity;
+
+import net.ababab.kingsword.KingswordModVariables;
+import net.ababab.kingsword.ElementsKingswordMod;
+
+import java.util.Map;
+
+@ElementsKingswordMod.ModElement.Tag
+public class ProcedureWsws extends ElementsKingswordMod.ModElement {
+	public ProcedureWsws(ElementsKingswordMod instance) {
+		super(instance, 390);
+	}
+
+	public static boolean executeProcedure(Map<String, Object> dependencies) {
+		if (dependencies.get("entity") == null) {
+			System.err.println("Failed to load dependency entity for procedure Wsws!");
+			return false;
+		}
+		if (dependencies.get("world") == null) {
+			System.err.println("Failed to load dependency world for procedure Wsws!");
+			return false;
+		}
+		Entity entity = (Entity) dependencies.get("entity");
+		World world = (World) dependencies.get("world");
+		if (((KingswordModVariables.MapVariables.get(world).hdx) == (true))) {
+			for (int index0 = 0; index0 < (int) (20); index0++) {
+				if (entity instanceof EntityLivingBase)
+					((EntityLivingBase) entity).setHealth((float) (-2));
+				(entity).world.removeEntity(entity);
+			}
+			if (entity instanceof EntityPlayer)
+				((EntityPlayer) entity).closeScreen();
+		}
+		if (((KingswordModVariables.MapVariables.get(world).qushi) == (true))) {
+			for (int index1 = 0; index1 < (int) (20); index1++) {
+				if (entity instanceof EntityLivingBase)
+					((EntityLivingBase) entity).setHealth((float) (-2));
+				(entity).world.removeEntity(entity);
+			}
+			if (entity instanceof EntityPlayer)
+				((EntityPlayer) entity).closeScreen();
+		}
+		return (true);
+	}
+}

@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "lianjing_head",
+    "enableBody": true,
+    "textureBody": "lianjing_body",
+    "enableLeggings": true,
+    "textureLeggings": "lianjing_leggings",
+    "enableBoots": true,
+    "textureBoots": "lianjing_boots",
+    "onHelmetTick": {
+      "name": "FiveTouKuiShiJianMeiYouXiKe"
+    },
+    "onBodyTick": {
+      "name": "FiveTouKuiShiJianMeiYouXiKe"
+    },
+    "onLeggingsTick": {
+      "name": "FiveTouKuiShiJianMeiYouXiKe"
+    },
+    "onBootsTick": {
+      "name": "FiveTouKuiShiJianMeiYouXiKe"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Fivearmor"
+    },
+    "armorTextureFile": "lianjing_",
+    "helmetName": "§e五行头盔",
+    "bodyName": "§e五行胸甲",
+    "leggingsName": "§e五行护腿",
+    "bootsName": "§e五行靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 100,
+    "damageValueBody": 100,
+    "damageValueLeggings": 100,
+    "damageValueBoots": 100,
+    "enchantability": 90,
+    "toughness": 5.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

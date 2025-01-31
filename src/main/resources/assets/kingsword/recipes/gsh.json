@@ -1,0 +1,30 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "kingsword:sldzs"
+    },
+    "5": {
+      "item": "minecraft:apple"
+    },
+    "7": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "kingsword:xieshenguoshi",
+    "count": 2
+  }
+}

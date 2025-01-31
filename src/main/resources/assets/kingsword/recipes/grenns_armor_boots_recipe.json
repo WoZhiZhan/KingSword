@@ -1,0 +1,26 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:grenns"
+    },
+    "2": {
+      "item": "kingsword:grenns"
+    },
+    "3": {
+      "item": "kingsword:grenns"
+    },
+    "5": {
+      "item": "kingsword:grenns"
+    }
+  },
+  "result": {
+    "item": "kingsword:grenns_armorboots",
+    "count": 1
+  }
+}

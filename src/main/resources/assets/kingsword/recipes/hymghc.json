@@ -1,0 +1,22 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:hsj"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "kingsword:lsj"
+    }
+  },
+  "result": {
+    "item": "kingsword:hymg",
+    "count": 1
+  }
+}

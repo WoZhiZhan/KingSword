@@ -1,0 +1,42 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:hyzz"
+    },
+    "1": {
+      "item": "kingsword:hyzz"
+    },
+    "2": {
+      "item": "kingsword:hyzz"
+    },
+    "3": {
+      "item": "kingsword:hyzz"
+    },
+    "4": {
+      "item": "kingsword:hyzz"
+    },
+    "5": {
+      "item": "kingsword:hyzz"
+    },
+    "6": {
+      "item": "kingsword:hyzz"
+    },
+    "7": {
+      "item": "kingsword:hyzz"
+    },
+    "8": {
+      "item": "kingsword:hyzz"
+    }
+  },
+  "result": {
+    "item": "kingsword:god",
+    "count": 1
+  }
+}

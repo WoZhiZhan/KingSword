@@ -1,0 +1,26 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:jingzhuan"
+    },
+    "2": {
+      "item": "kingsword:jingzhuan"
+    },
+    "3": {
+      "item": "kingsword:jingzhuan"
+    },
+    "5": {
+      "item": "kingsword:jingzhuan"
+    }
+  },
+  "result": {
+    "item": "kingsword:jingzhuan_armorboots",
+    "count": 1
+  }
+}

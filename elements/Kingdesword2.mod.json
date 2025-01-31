@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "c",
+    "customModelName": "Normal",
+    "name": "King¤Îsword 2",
+    "specialInfo": [
+      "qswl"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 128000,
+    "efficiency": 128000.0,
+    "attackSpeed": 100.0,
+    "enchantability": 128000,
+    "damageVsEntity": 114514.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "Lyglc"
+    },
+    "onRightClickedOnBlock": {
+      "name": "Wtfffffffff"
+    },
+    "onEntityHitWith": {
+      "name": "Kingdesword2DangShiTiBeiGongJuJiZhongShi"
+    }
+  }
+}

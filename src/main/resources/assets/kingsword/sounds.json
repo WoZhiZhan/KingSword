@@ -1,0 +1,52 @@
+{
+  "yj": {
+    "category": "master",
+    "subtitle": "subtitles.yj",
+    "sounds": [
+      {
+        "name": "kingsword:yj",
+        "stream": false
+      }
+    ]
+  },
+  "hd": {
+    "category": "master",
+    "subtitle": "subtitles.hd",
+    "sounds": [
+      {
+        "name": "kingsword:hd",
+        "stream": false
+      }
+    ]
+  },
+  "sc": {
+    "category": "master",
+    "subtitle": "subtitles.sc",
+    "sounds": [
+      {
+        "name": "kingsword:sc",
+        "stream": false
+      }
+    ]
+  },
+  "zyzy": {
+    "category": "master",
+    "subtitle": "subtitles.zyzy",
+    "sounds": [
+      {
+        "name": "kingsword:ling_yuan_yousa_cha_li_li_li_zi__hanser_san_wu_marblue_-_qian_li_yao_yue_",
+        "stream": false
+      }
+    ]
+  },
+  "gj": {
+    "category": "master",
+    "subtitle": "subtitles.gj",
+    "sounds": [
+      {
+        "name": "kingsword:gj",
+        "stream": false
+      }
+    ]
+  }
+}

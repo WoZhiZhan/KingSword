@@ -1,0 +1,13 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:white_block"
+    }
+  ],
+  "result": {
+    "item": "kingsword:white",
+    "count": 9
+  }
+}

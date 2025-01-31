@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hsj"
+      },
+      {
+        "value": "CUSTOM:Lsj"
+      },
+      {
+        "value": "CUSTOM:Hyfk"
+      },
+      {
+        "value": "CUSTOM:Lsj"
+      },
+      {
+        "value": "CUSTOM:Hsj"
+      },
+      {
+        "value": "CUSTOM:Hyfk"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Sldzs"
+    },
+    "name": "sldzshc",
+    "namespace": "mod"
+  }
+}

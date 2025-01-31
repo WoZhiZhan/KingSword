@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Kingdfyys",
+    "effectName": "Kingnb",
+    "icon": "azz.png",
+    "color": {
+      "value": -65434,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "KingdfyysYaoShuiXiaoGuoChiXuShiMeiKeFaSheng"
+    }
+  }
+}

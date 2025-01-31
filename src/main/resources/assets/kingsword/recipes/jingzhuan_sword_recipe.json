@@ -1,0 +1,24 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:jingzhuan"
+    },
+    "1": {
+      "item": "kingsword:jingzhuan"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kingsword:jingzhuan_sword",
+    "count": 1
+  }
+}

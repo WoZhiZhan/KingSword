@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kingsword:blocks/black_ore_block",
+    "particle": "kingsword:blocks/black_ore_block"
+  }
+}

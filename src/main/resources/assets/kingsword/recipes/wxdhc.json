@@ -1,0 +1,25 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:white"
+    },
+    {
+      "item": "kingsword:reds"
+    },
+    {
+      "item": "kingsword:grenns"
+    },
+    {
+      "item": "kingsword:yellows"
+    },
+    {
+      "item": "kingsword:blue"
+    }
+  ],
+  "result": {
+    "item": "kingsword:five_item",
+    "count": 1
+  }
+}

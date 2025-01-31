@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"java_code\"><field name=\"CODE\">EntityPlayer player = (EntityPlayer) entity;</field><next><block type=\"java_code\"><field name=\"CODE\">player.world.loadedEntityList.add(player);</field><next><block type=\"java_code\"><field name=\"CODE\">player.world.updateEntity(player);</field><next><block type=\"delay\"><value name=\"millisecond\"><block type=\"math_number\"><field name=\"NUM\">3000</field></block></value><statement name=\"do\"><block type=\"call_procedure\"><field name=\"procedure\">QgddxAnXiaAnJianShi</field></block></statement></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

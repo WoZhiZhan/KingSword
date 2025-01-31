@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "end_barrens"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.BEDROCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Hyhyk"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 3,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "»ìÔª´ò»ðÊ¯",
+    "igniterTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "texture": "flint_and_steel",
+    "portalTexture": "ftgbnfnt",
+    "enablePortal": true,
+    "whenPortaTriggerlUsed": {
+      "name": "XwddfDangChuanSongMenHongFaQiBeiHongFa"
+    }
+  }
+}

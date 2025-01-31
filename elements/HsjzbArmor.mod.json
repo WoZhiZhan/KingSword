@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "hsjzb_head",
+    "enableBody": true,
+    "textureBody": "hsjzb_body",
+    "enableLeggings": true,
+    "textureLeggings": "hsjzb_leggings",
+    "enableBoots": true,
+    "textureBoots": "hsjzb_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "armorTextureFile": "hsjzb",
+    "helmetName": "ºìË®¾§Í·¿ø",
+    "bodyName": "ºìË®¾§ÐØ¼×",
+    "leggingsName": "ºìË®¾§»¤ÍÈ",
+    "bootsName": "ºìË®¾§Ñ¥×Ó",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 300,
+    "damageValueHelmet": 9,
+    "damageValueBody": 16,
+    "damageValueLeggings": 13,
+    "damageValueBoots": 6,
+    "enchantability": 27,
+    "toughness": 5.0,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Hsj"
+      }
+    ]
+  }
+}

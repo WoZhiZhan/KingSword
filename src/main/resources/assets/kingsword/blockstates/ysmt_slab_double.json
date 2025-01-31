@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "kingsword:ysmt_slab_double"
+    }
+  }
+}

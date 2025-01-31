@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "Y",
+    "keyBindingName": "È«¾Ö²Ê×Ö",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Kaiqi"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "jingzhuan_axe",
+    "customModelName": "Normal",
+    "name": "¾§×ê¸«",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 14.0,
+    "attackSpeed": 0.9,
+    "enchantability": 21,
+    "damageVsEntity": 14.0,
+    "usageCount": 1800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Jingzhuan"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

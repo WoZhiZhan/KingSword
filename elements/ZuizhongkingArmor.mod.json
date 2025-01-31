@@ -1,0 +1,78 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "zuizhongking_head",
+    "enableBody": true,
+    "textureBody": "zuizhongking_body",
+    "enableLeggings": true,
+    "textureLeggings": "zuizhongking_leggings",
+    "enableBoots": true,
+    "textureBoots": "zuizhongking_boots",
+    "onHelmetTick": {
+      "name": "ZuizhongkingArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onBodyTick": {
+      "name": "ZuizhongkingArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onLeggingsTick": {
+      "name": "ZuizhongkingArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "onBootsTick": {
+      "name": "ZuizhongkingArmorTouKuiShiJianMeiYouXiKe"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "armorTextureFile": "zuizhongking",
+    "helmetName": "Zuizhongking Helmet",
+    "bodyName": "Zuizhongking Chestplate",
+    "leggingsName": "Zuizhongking Leggings",
+    "bootsName": "Zuizhongking Boots",
+    "helmetSpecialInfo": [
+      "1"
+    ],
+    "bodySpecialInfo": [
+      "1"
+    ],
+    "leggingsSpecialInfo": [
+      "1"
+    ],
+    "bootsSpecialInfo": [
+      "1"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 1024,
+    "damageValueBody": 1024,
+    "damageValueLeggings": 1024,
+    "damageValueBoots": 1024,
+    "enchantability": 90,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:JingzhuanBlock"
+      }
+    ]
+  }
+}

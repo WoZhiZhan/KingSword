@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "components": [],
+    "baseTexture": "swgui.png",
+    "displayCondition": {
+      "name": "Jiagui"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:reds_block"
+    }
+  ],
+  "result": {
+    "item": "kingsword:reds",
+    "count": 9
+  }
+}

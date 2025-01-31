@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">player_ticks</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_binary_ops\"><field name=\"OP\">EQ</field><value name=\"A\"><block type=\"variables_get_logic\"><field name=\"VAR\">global:wddsl</field></block></value><value name=\"B\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value></block></value><statement name=\"DO0\"><block type=\"world_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">霜狼:§3我是无敌的,别想着能杀死我,§e如果我没了,退出游戏重新进再试试</field></block></value><next><block type=\"world_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">霜狼:§e我是无敌的,别想着能杀死我,§3如果我没了,退出游戏重新进再试试</field></block></value><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_entity_compare\"><field name=\"entity\">CUSTOM:Shuanglang</field><value name=\"compareTo\"><block type=\"entity_from_deps\"></block></value></block></value><statement name=\"DO0\"><block type=\"entity_set_health\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"health\"><block type=\"math_number\"><field name=\"NUM\">1024</field></block></value></block></statement></block></next></block></next></block></statement></block></next></block></xml>"
+  }
+}

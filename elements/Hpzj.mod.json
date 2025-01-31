@@ -1,0 +1,35 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wei_biao_ti_qs-8",
+    "customModelName": "Normal",
+    "name": "Hpzj",
+    "specialInfo": [
+      "a"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 12800,
+    "efficiency": 12800.0,
+    "attackSpeed": 1.6,
+    "enchantability": 10,
+    "damageVsEntity": 100.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "Hp"
+    },
+    "onEntityHitWith": {
+      "name": "HanpizhijianDangShiTiBeiGongJuJiZhongShi"
+    }
+  }
+}

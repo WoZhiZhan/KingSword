@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kingsword:blocks/ysmt_leaves",
+    "particle": "kingsword:blocks/ysmt_leaves"
+  }
+}

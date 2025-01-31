@@ -1,0 +1,39 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:reds"
+    },
+    "2": {
+      "item": "kingsword:reds"
+    },
+    "3": {
+      "item": "kingsword:reds"
+    },
+    "4": {
+      "item": "kingsword:reds"
+    },
+    "5": {
+      "item": "kingsword:reds"
+    },
+    "6": {
+      "item": "kingsword:reds"
+    },
+    "7": {
+      "item": "kingsword:reds"
+    },
+    "8": {
+      "item": "kingsword:reds"
+    }
+  },
+  "result": {
+    "item": "kingsword:reds_armorbody",
+    "count": 1
+  }
+}

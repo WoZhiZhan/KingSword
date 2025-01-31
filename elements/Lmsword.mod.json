@@ -1,0 +1,44 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "abab_7",
+    "customModelName": "Tool",
+    "name": "a",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 128000.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": true,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "1"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "Luomo"
+    },
+    "onEntityHitWith": {
+      "name": "LmswordDangHuoZhaoDeShiTiBeiGaiWuPinJiZhong"
+    },
+    "onItemInUseTick": {
+      "name": "LmswordDangWuPinZaiShouShangMeiKeFaSheng"
+    }
+  }
+}

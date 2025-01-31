@@ -1,0 +1,30 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:reds"
+    },
+    "1": {
+      "item": "kingsword:reds"
+    },
+    "2": {
+      "item": "kingsword:reds"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kingsword:reds_pickaxe",
+    "count": 1
+  }
+}

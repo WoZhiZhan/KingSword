@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F7",
+    "keyBindingName": "F 7",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "F7AnXiaAnJianShi"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rtjhdt_20",
+    "customModelName": "Normal",
+    "name": "Kill Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Kingice"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "IceswordDangYouJianDianJiKongQiShi"
+    },
+    "onEntityHitWith": {
+      "name": "Kingdesword2DangShiTiBeiGongJuJiZhongShi"
+    }
+  }
+}

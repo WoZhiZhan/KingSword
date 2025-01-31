@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "jingzhuan_head",
+    "enableBody": true,
+    "textureBody": "jingzhuan_body",
+    "enableLeggings": true,
+    "textureLeggings": "jingzhuan_leggings",
+    "enableBoots": true,
+    "textureBoots": "jingzhuan_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Kingdwpl"
+    },
+    "armorTextureFile": "jingzhuan",
+    "helmetName": "¾§×êÍ·¿ø",
+    "bodyName": "¾§×êÐØ¼×",
+    "leggingsName": "¾§×ê»¤ÍÈ",
+    "bootsName": "¾§×êÑ¥×Ó",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 80,
+    "damageValueHelmet": 9,
+    "damageValueBody": 9,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 9,
+    "enchantability": 14,
+    "toughness": 10.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Jingzhuan"
+      }
+    ]
+  }
+}

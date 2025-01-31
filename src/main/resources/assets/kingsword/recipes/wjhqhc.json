@@ -1,0 +1,22 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:wjhkzbhelmet"
+    },
+    {
+      "item": "kingsword:wjhkzbbody"
+    },
+    {
+      "item": "kingsword:wjhkzblegs"
+    },
+    {
+      "item": "kingsword:wjhkzbboots"
+    }
+  ],
+  "result": {
+    "item": "kingsword:wjhzbq",
+    "count": 1
+  }
+}

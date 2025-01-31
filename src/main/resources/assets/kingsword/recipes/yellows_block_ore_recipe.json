@@ -1,0 +1,13 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingsword:yellows_block"
+    }
+  ],
+  "result": {
+    "item": "kingsword:yellows",
+    "count": 9
+  }
+}

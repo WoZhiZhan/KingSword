@@ -1,0 +1,26 @@
+{
+  "group": "kingsword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "kingsword:ysmt_log"
+    },
+    "1": {
+      "item": "kingsword:ysmt_log"
+    },
+    "2": {
+      "item": "kingsword:ysmt_log"
+    },
+    "3": {
+      "item": "kingsword:ysmt_log"
+    }
+  },
+  "result": {
+    "item": "kingsword:ysmt_wood",
+    "count": 3
+  }
+}
